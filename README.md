@@ -1,2 +1,3 @@
-# dvision-docs
-DVision documentation
+# dvision-public
+
+DVision public documentation
